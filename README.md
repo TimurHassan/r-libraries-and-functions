@@ -5,6 +5,7 @@ The only dependency is the package _pacman_.
 
 The packes it loads are:
 
+1. RCurl
 1. data.table
 1. magrittr
 1. sqldf
@@ -19,3 +20,4 @@ The packes it loads are:
 1. scales
 1. chron
 1. ggforce
+1. freqweights
