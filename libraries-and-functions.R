@@ -1,5 +1,5 @@
 # Standard packages
-pacman::p_load(data.table,magrittr,sqldf,expss,dplyr,ggplot2,gridExtra,grid,lubridate,gmodels,tidyverse,questionr,scales,chron,ggforce)
+pacman::p_load(data.table,magrittr,sqldf,expss,dplyr,gridExtra,grid,lubridate,gmodels,tidyverse,questionr,scales,chron,ggforce)
 
 # function to convert decimal to percent
 percent <- function(x, digits = 2, format = "f", ...) {
