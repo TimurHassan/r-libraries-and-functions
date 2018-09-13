@@ -10,7 +10,6 @@ The packes it loads are:
 1. sqldf
 1. expss
 1. dplyr
-1. ggplot2
 1. gridExtra
 1. grid
 1. lubridate
