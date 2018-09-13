@@ -30,4 +30,4 @@ wrapper <- function(x, ...)
 }
 
 # quick csv export to tmp.csv.
-wrt <- function(data){write_csv(data,file="tmp.csv")}
+wrt <- function(data){write_csv(data,"tmp.csv")}
