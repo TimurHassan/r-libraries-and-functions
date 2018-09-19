@@ -1,21 +1,23 @@
 # Standard packages
 pacman::p_load(
-              RCurl,
+              chron,
               data.table,
-              magrittr,
-              sqldf,
-              expss,
+              devtools,
               dplyr,
+              expss,
+              freqweights,
               gridExtra,
               grid,
-              lubridate,
-              gmodels,
-              tidyverse,
-              questionr,
-              scales,
-              chron,
               ggforce,
-              freqweights
+              gmodels,
+              lubridate,
+              magrittr,
+              questionr,
+              RCurl,
+              RODBC,
+              scales,
+              sqldf,
+              tidyverse  
 )
 
 # function to convert decimal to percent
