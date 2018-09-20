@@ -34,3 +34,6 @@ wrapper <- function(x, ...)
 
 # quick csv export to tmp.csv.
 wrt <- function(data){write_csv(data,"tmp.csv")}
+
+# Convert SAS dates to R
+as_date_sas <- function(data){as.Date(data, origin = "1960-01-01")}
