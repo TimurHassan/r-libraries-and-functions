@@ -14,6 +14,7 @@ pacman::p_load(
               lubridate,
               magrittr,
               questionr,
+              R.utils,
               RCurl,
               RODBC,
               scales,
