@@ -6,10 +6,10 @@ pacman::p_load(
               dplyr,
               expss,
               freqweights,
-              grid,
-              gridExtra,
               ggforce,
               gmodels,
+              grid,
+              gridExtra,
               knitr,
               lubridate,
               magrittr,
@@ -19,7 +19,8 @@ pacman::p_load(
               RODBC,
               scales,
               sqldf,
-              tidyverse  
+              tidyverse,
+              xlsx
 )
 
 # function to convert decimal to percent
