@@ -18,6 +18,7 @@ The packes it loads are:
 1. magrittr
 1. questionr
 1. RCurl
+1. RSiteCatalyst
 1. scales
 1. sqldf
 1. tidyverse
