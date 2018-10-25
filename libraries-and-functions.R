@@ -17,6 +17,7 @@ pacman::p_load(
               R.utils,
               RCurl,
               RODBC,
+              RSiteCatalyst,
               scales,
               sqldf,
               tidyverse,
